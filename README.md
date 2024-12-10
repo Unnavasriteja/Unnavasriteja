@@ -6,7 +6,7 @@
 - 🌱 Democratising the Kubernetes adoption 👨🏻‍💻
 - 👯 Open to collaborate on open-source Projects 🤗
 - ⚙️ Loves to learn & share with the community 🐬
-- 💬 Ask me about anything, will we happy to help 👦🏻🥰
+- 💬 Ask me about DevOps / Cloud Computing
 - 📫 How to reach me: <a href="[https://www.linkedin.com/in/saisritejaunnava/]">LinkedIn</a> 😍
 - 😍 For Business deals reach me through 📩
 - 🤗 Love to make new connections 👫🐥
