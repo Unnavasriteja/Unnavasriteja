@@ -12,13 +12,8 @@
 - 🤗 Love to make new connections 👫🐥
 - ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr>
 ### Let's Connect 🤝
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-saisritejaunnava-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/abhinavd26/)](https://www.linkedin.com/in/abhinavdubey26/)&nbsp;&nbsp;&nbsp;
 
-(mailto:abhinavdubey616@gmail.com)&nbsp;&nbsp;&nbsp; -->
-
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhinavd26/) 
-
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saisritejaunnava/)
 
 ### Languages & Tools Worked On 👨🏻‍💻
 <code><img height="35" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
