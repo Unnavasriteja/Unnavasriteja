@@ -12,7 +12,7 @@
 - 🤗 Love to make new connections 👫🐥
 - ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr>
 ### Let's Connect 🤝
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-AbhinavDubey-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/abhinavd26/)](https://www.linkedin.com/in/abhinavdubey26/)&nbsp;&nbsp;&nbsp;
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-saisritejaunnava-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/abhinavd26/)](https://www.linkedin.com/in/abhinavdubey26/)&nbsp;&nbsp;&nbsp;
 
 (mailto:abhinavdubey616@gmail.com)&nbsp;&nbsp;&nbsp; -->
 
