@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Sai Sri Teja Unnava 👨🏻‍💻 
+<h1 align="center">Hey there, I'm Sri Teja<img src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" width="30px"></h1>
 
 - 🔭 I’m currently focusing on upgrading skills 👨⌛️
 - 🔭 I’m currently working and maintaining Infrastructure modules provisioned by terraform
