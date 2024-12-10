@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Sri Teja<img src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" width="30px"></h1>
 <img width="40%" align="right" alt="Github Header" src="dev-working_rounded.gif" />
 
-- 🔭 I’m currently focusing on upgrading skills 👨⌛️
+- 🔭 I'm on track for learning more about Artificial Intelligence, Application Development, and Cloud Architecture. 👨⌛️
 - 🔭 I’m currently working and maintaining Infrastructure modules provisioned by terraform
 - 🌱 Democratising the Kubernetes adoption 👨🏻‍💻
 - 👯 Open to collaborate on open-source Projects 🤗
