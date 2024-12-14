@@ -1,4 +1,4 @@
-
+<img src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" width="30px">
 <h1 align="center">Hey there, I'm Sri Teja<img src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" width="30px"></h1>
 <img width="40%" align="right" alt="Github Header" src="dev-working_rounded.gif" />
 
